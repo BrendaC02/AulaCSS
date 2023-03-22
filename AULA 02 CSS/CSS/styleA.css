@@ -1,0 +1,137 @@
+
+/* container 1*/
+
+.caixas {
+    flex-direction: row;
+}
+
+.container1 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container1 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container1 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container1 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
+
+
+/*container 2*
+.container2 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container2 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container2 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container2 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
+/*container 3*
+.container3 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container3 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container3 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container3 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
+
+/*container 4*
+.container4 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container4 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container4 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container4 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
+
+/*container 5*
+.container5 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container5 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container5 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container5 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
+
+/*container 6*
+.container6 .caixa1 {
+    width: 100px ;
+    height: 100px ;
+    background-color: aqua
+}
+.container6 .caixa2 {
+    width: 100px ;
+    height: 100px ;
+    background-color: purple;
+}
+.container6 .caixa3 {
+    width: 100px ;
+    height: 100px ;
+    background-color: crimson;
+}
+.container6 .caixa4 {
+    width: 100px ;
+    height: 100px ;
+    background-color: orange;
+}
